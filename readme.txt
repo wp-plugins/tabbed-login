@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Tabbed Login Widget ===
 Contributors: vivek.marakana
 Donate link: http://htmlcsstutor.com/donate.html
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
