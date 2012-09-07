@@ -47,6 +47,6 @@ It is because you probably haven't enable registration feature. To enable it go 
 
 == Changelog ==
 
-=1.0.0=
+= 1.0.0 =
 
 Initial Release
