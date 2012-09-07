@@ -22,7 +22,7 @@ It lets users login, and then redirects them back to the page they logged in fro
 
 = First time installation instructions =
 
-   1. Unzip and upload the php file to your wordpress plugin directory
+   1. Unzip and upload the extracted folder to your wordpress plugin directory
    2. Activate the plugin
    3. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
 
