@@ -16,7 +16,7 @@ Tabbed Login Widget has a widget to allow you to have a login form in the sideba
 
 It lets users login, and then redirects them back to the page they logged in from rather than the backend, it also shows error messages.
 
-*This is my first plugin so please give me some review about this and post questions to support forum if any...*
+**This is my first plugin so please give me some review about this and post questions to support forum if any...**
 
 == Installation ==
 
@@ -25,6 +25,18 @@ It lets users login, and then redirects them back to the page they logged in fro
    1. Unzip and upload the extracted folder to your wordpress plugin directory
    2. Activate the plugin
    3. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
+   
+== Frequently Asked Questions ==
+
+= Can i change the language to my widget? =
+
+I am currently working on localization of this widget. I will soon release new version with more language support.
+
+= This widget does't show 'Register' Tab.Why? =
+
+It is because you probably haven't enable registration feature. To enable it go to the dashboard > Settings > General, and check "Anyone can register".
+
+**If you have more question, post it to support forum.**
 
 == Screenshots ==
 
