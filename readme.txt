@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: vivek.marakana
+Donate link: http://htmlcsstutor.com/donate.html
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
 Requires at least: 2.1 
 Tested up to: 3.4.2
