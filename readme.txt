@@ -13,6 +13,7 @@ Tabbed Login Widget has a widget to allow you to have a login form in the sideba
 
 It lets users login, and then redirects them back to the page they logged in from rather than the backend, it also shows error messages.
 
+*This is my first plugin so please give me some review about this and post questions to support forum if any...*
 
 == Installation ==
 
