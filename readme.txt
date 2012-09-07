@@ -22,9 +22,17 @@ It lets users login, and then redirects them back to the page they logged in fro
 
 = First time installation instructions =
 
-   1. Unzip and upload the extracted folder to your wordpress plugin directory
-   2. Activate the plugin
+   1. Unzip and upload the 'tabbed-login' folder to your wordpress plugin directory.
+   2. Activate the plugin.
    3. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
+   
+   or
+   
+   1. Login to your site.
+   2. Go to Plugins > Add New > Upload.
+   3. Select the plugin ZIP file and click Upload.
+   4. Activate the plugin.
+   5. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
    
 == Frequently Asked Questions ==
 
