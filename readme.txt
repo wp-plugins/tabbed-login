@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: vivek.marakana
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
-Requires at least: 2.1 or higher
+Requires at least: 2.1 
 Tested up to: 3.4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
