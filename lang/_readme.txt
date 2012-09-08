@@ -16,6 +16,7 @@ TRANSLATION CREDITS :
 => Hindi - PrashantM <pm171295@gmail.com>
 => Italian - Macitaly <macitaly@gmail.com>
 => Bosnian - Kenan Derviševic <kenan3008@gmail.com>
+=> Dutch - Elkana Oosterveen <elkana@elkana.nl>
 
 
 Thanks,
