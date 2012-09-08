@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Tabbed sidebar Login
+Plugin Name: Tabbed Login Widget
 Plugin URI: http://htmlcsstutor.com
 Description: Easily add an beautifull tabbed login to your site's sidebar.
 Version: 1.0.0
