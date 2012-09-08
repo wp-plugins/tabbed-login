@@ -16,6 +16,8 @@ Tabbed Login Widget has a widget to allow you to have a login form in the sideba
 
 It lets users login, and then redirects them back to the page they logged in from rather than the backend, it also shows error messages.
 
+If you want to change look, you can request me for customization at : vivek.marakana@gmail.com
+
 **This is my first plugin so please give me some review about this and post questions to support forum if any...**
 
 == Installation ==
@@ -43,6 +45,10 @@ I am currently working on localization of this widget. I will soon release new v
 = This widget does't show 'Register' Tab.Why? =
 
 It is because you probably haven't enable registration feature. To enable it go to the dashboard > Settings > General, and check "Anyone can register".
+
+= This plugin does not look good with my theme. What do i do? =
+
+You can change style 'css/tabbed-login.css' by yourself or if you need professional help you can request me for customization at : vivek.marakana@gmail.com
 
 **If you have more question, post it to support forum.**
 
