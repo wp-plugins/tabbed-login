@@ -10,8 +10,10 @@ I will give you credit and it will help others who speak your language.
 
 TRANSLATION CREDITS : 
 
-=> Catalan - cubells<vicent@vcubells.net>
-=> French  - FxB<fxbenard@gmail.com>
+=> Catalan - cubells <vicent@vcubells.net>
+=> French  - FxB <fxbenard@gmail.com>
+=> Gujarati - PrashantM <pm171295@gmail.com>
+=> Hindi - PrashantM <pm171295@gmail.com>
 
 
 Thanks,
