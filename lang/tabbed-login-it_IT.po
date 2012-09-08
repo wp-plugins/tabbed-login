@@ -40,17 +40,17 @@ msgstr "Controllare la posta, per azzerare la password."
 #. Text in echo
 #: tabbed-login.php:145
 msgid "Enter your username or email to reset your password."
-msgstr "Inserire il nome utente o l'indirizzo di email usato, per azzerare la password."
+msgstr "Inserire il nome utente o l'indirizzo di email usato, per azzerare la password e sceglierne una nuova."
 
 #. Text in echo
 #: tabbed-login.php:73
 msgid "Forgot"
-msgstr "Dimenticato"
+msgstr "Password"
 
 #. Text in echo
 #: tabbed-login.php:90
 msgid "Have an account?"
-msgstr "Già registrato?"
+msgstr "Entrata Utenti"
 
 #. Text in echo
 #: tabbed-login.php:172
@@ -91,22 +91,22 @@ msgstr "Profilo"
 #. Text in echo
 #: tabbed-login.php:71
 msgid "Register"
-msgstr "Registra"
+msgstr "Registrazione"
 
 #. Text in echo
 #: tabbed-login.php:120
 msgid "Register for this site!"
-msgstr "Registrarsi in questo sito!"
+msgstr "Registrarsi è facile!"
 
 #. Text in echo
 #: tabbed-login.php:153
 msgid "Reset my password"
-msgstr "Azzera la mia password!"
+msgstr "Azzera"
 
 #. Text in echo
 #: tabbed-login.php:121
 msgid "Sign up now for the good stuff."
-msgstr "Registrati ora per usufruire dei servizi completi."
+msgstr "Registrati ora per usufruire dei servizi riservati agli utenti."
 
 #. Text in echo
 #: tabbed-login.php:133
@@ -131,7 +131,7 @@ msgstr "Nome Utente o Email"
 #. Text in echo
 #: tabbed-login.php:165
 msgid "Welcome, "
-msgstr "Benvenuto,"
+msgstr "Benvenuto, "
 
 #. Text in echo
 #: tabbed-login.php:170
