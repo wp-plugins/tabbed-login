@@ -14,6 +14,7 @@ TRANSLATION CREDITS :
 => French  - FxB <fxbenard@gmail.com>
 => Gujarati - PrashantM <pm171295@gmail.com>
 => Hindi - PrashantM <pm171295@gmail.com>
+=> Italian - Macitaly <macitaly@gmail.com>
 
 
 Thanks,

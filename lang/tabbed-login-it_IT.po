@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Tabbed Login ITA 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mac\n"
+"Language-Team: Macitaly <macitaly@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. Text in echo
+#: tabbed-login.php:106
+msgid " Remember me"
+msgstr "Ricordami"
+
+#. Text in function
+#: tabbed-login.php:40
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "Mostra un widget a linguette (tab), nella sidebar, contenente i moduli di Ingresso/Registrazione/Recupero Password"
+
+#. Text in function
+#: tabbed-login.php:173
+msgid "Admin"
+msgstr "Amministrazione"
+
+#. Text in echo
+#: tabbed-login.php:81
+msgid "Check your email for the password and then return to log in."
+msgstr "Controllare la posta per la password inviata e tornare qui per entrare."
+
+#. Text in echo
+#: tabbed-login.php:86
+msgid "Check your email to reset your password."
+msgstr "Controllare la posta, per azzerare la password."
+
+#. Text in echo
+#: tabbed-login.php:145
+msgid "Enter your username or email to reset your password."
+msgstr "Inserire il nome utente o l'indirizzo di email usato, per azzerare la password."
+
+#. Text in echo
+#: tabbed-login.php:73
+msgid "Forgot"
+msgstr "Dimenticato"
+
+#. Text in echo
+#: tabbed-login.php:90
+msgid "Have an account?"
+msgstr "Già registrato?"
+
+#. Text in echo
+#: tabbed-login.php:172
+msgid "Log out"
+msgstr "Uscita"
+
+#. Text in echo
+#: tabbed-login.php:69
+#: tabbed-login.php:110
+msgid "Login"
+msgstr "Ingresso"
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Lost Your Password?"
+msgstr "Persa la password?"
+
+#. Text in echo
+#: tabbed-login.php:192
+msgid "No option available for this widget."
+msgstr "Questo widget non necessita di configurazione."
+
+#. Text in echo
+#: tabbed-login.php:193
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Nota: Non inserire lo stesso widget due volte nella stessa pagina."
+
+#. Text in echo
+#: tabbed-login.php:100
+msgid "Password"
+msgstr "Password"
+
+#. Text in function
+#: tabbed-login.php:173
+msgid "Profile"
+msgstr "Profilo"
+
+#. Text in echo
+#: tabbed-login.php:71
+msgid "Register"
+msgstr "Registra"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Register for this site!"
+msgstr "Registrarsi in questo sito!"
+
+#. Text in echo
+#: tabbed-login.php:153
+msgid "Reset my password"
+msgstr "Azzera la mia password!"
+
+#. Text in echo
+#: tabbed-login.php:121
+msgid "Sign up now for the good stuff."
+msgstr "Registrati ora per usufruire dei servizi completi."
+
+#. Text in echo
+#: tabbed-login.php:133
+msgid "Sign up!"
+msgstr "Registrami!"
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Success!"
+msgstr "Successo!"
+
+#. Text in echo
+#: tabbed-login.php:124
+msgid "Username"
+msgstr "Nome Utente"
+
+#. Text in echo
+#: tabbed-login.php:148
+msgid "Username or Email"
+msgstr "Nome Utente o Email"
+
+#. Text in echo
+#: tabbed-login.php:165
+msgid "Welcome, "
+msgstr "Benvenuto,"
+
+#. Text in echo
+#: tabbed-login.php:170
+msgid "You are logged in as "
+msgstr "Sei entrato come "
+
+#. Text in echo
+#: tabbed-login.php:128
+msgid "Your Email"
+msgstr "La tua Email"
+
