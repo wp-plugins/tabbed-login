@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Tabbed Login Bosnian Translation v1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kenan Dervišević <kenan3008@gmail.com>\n"
+"Language-Team: Kenan Dervišević <kenan@dkenan.com>\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: Bosnian\n"
+
+#. Text in echo
+#: tabbed-login.php:106
+msgid " Remember me"
+msgstr "Zapamti me"
+
+#. Text in function
+#: tabbed-login.php:40
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr ""
+"Prikaži obrazac za tabuliranu prijavu/registraciju/izgubljenu šifru u bočnoj "
+"traci."
+
+#. Text in function
+#: tabbed-login.php:173
+msgid "Admin"
+msgstr "Administracija"
+
+#. Text in echo
+#: tabbed-login.php:81
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Provjerite vaš email radi šifre a zatim se vratite ovdje da biste se mogli "
+"prijaviti."
+
+#. Text in echo
+#: tabbed-login.php:86
+msgid "Check your email to reset your password."
+msgstr "Provjerite vaš email radi informacija za resetovanje šifre."
+
+#. Text in echo
+#: tabbed-login.php:145
+msgid "Enter your username or email to reset your password."
+msgstr "Upišite vaše korisničko ime ili šifru da biste resetovali vašu šifru."
+
+#. Text in echo
+#: tabbed-login.php:73
+msgid "Forgot"
+msgstr "Zaboravljena šifra"
+
+#. Text in echo
+#: tabbed-login.php:90
+msgid "Have an account?"
+msgstr "Imate račun?"
+
+#. Text in echo
+#: tabbed-login.php:172
+msgid "Log out"
+msgstr "Odjava"
+
+#. Text in echo
+#: tabbed-login.php:69 tabbed-login.php:110
+msgid "Login"
+msgstr "Prijava"
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Lost Your Password?"
+msgstr "Zaboravljena šifra?"
+
+#. Text in echo
+#: tabbed-login.php:192
+msgid "No option available for this widget."
+msgstr "Nema dostupnih opcija za ovaj dodatak."
+
+#. Text in echo
+#: tabbed-login.php:193
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Napomena: na stranicu nemojte ubacivati isti dodatak dva puta."
+
+#. Text in echo
+#: tabbed-login.php:100
+msgid "Password"
+msgstr "Šifra"
+
+#. Text in function
+#: tabbed-login.php:173
+msgid "Profile"
+msgstr "Profil"
+
+#. Text in echo
+#: tabbed-login.php:71
+msgid "Register"
+msgstr "Registracija"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Register for this site!"
+msgstr "Registruj se na ovu stranicu!"
+
+#. Text in echo
+#: tabbed-login.php:153
+msgid "Reset my password"
+msgstr "Resetuj šifru"
+
+#. Text in echo
+#: tabbed-login.php:121
+msgid "Sign up now for the good stuff."
+msgstr "Registrujte se za odlične informacije."
+
+#. Text in echo
+#: tabbed-login.php:133
+msgid "Sign up!"
+msgstr "Registracija!"
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Success!"
+msgstr "Uspješno!"
+
+#. Text in echo
+#: tabbed-login.php:124
+msgid "Username"
+msgstr "Korisničko ime"
+
+#. Text in echo
+#: tabbed-login.php:148
+msgid "Username or Email"
+msgstr "Korisničko ime ili email"
+
+#. Text in echo
+#: tabbed-login.php:165
+msgid "Welcome, "
+msgstr "Dobro došli,"
+
+#. Text in echo
+#: tabbed-login.php:170
+msgid "You are logged in as "
+msgstr "Prijavljeni ste kao"
+
+#. Text in echo
+#: tabbed-login.php:128
+msgid "Your Email"
+msgstr "Vaš email"
