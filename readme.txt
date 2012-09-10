@@ -1,6 +1,6 @@
 === Tabbed Login Widget ===
 Contributors: vivek.marakana
-Donate link: http://htmlcsstutor.com/donate.html
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9JPDDN7RYGFNL
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
 Requires at least: 2.1 
 Tested up to: 3.4.2
