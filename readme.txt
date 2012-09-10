@@ -20,6 +20,17 @@ If you want to change look, you can request me for customization at : vivek.mara
 
 **This is my first plugin so please give me some review about this and post questions to support forum if any...**
 
+= TRANSLATION CREDITS : = 
+
+* Catalan - cubells <vicent@vcubells.net>
+* French  - FxB <fxbenard@gmail.com>
+* Gujarati - PrashantM <pm171295@gmail.com>
+* Hindi - PrashantM <pm171295@gmail.com>
+* Italian - Macitaly <macitaly@gmail.com>
+* Bosnian - Kenan Derviševic <kenan3008@gmail.com>
+* Dutch - Elkana Oosterveen <elkana@elkana.nl>
+* Spanish - iformas <iformas@hotmail.com>
+
 == Installation ==
 
 = First time installation instructions =

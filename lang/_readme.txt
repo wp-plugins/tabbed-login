@@ -8,15 +8,16 @@ Send me traslated files at: vivek.marakana@gmail.com
 
 I will give you credit and it will help others who speak your language.
 
-TRANSLATION CREDITS : 
+= TRANSLATION CREDITS : = 
 
-=> Catalan - cubells <vicent@vcubells.net>
-=> French  - FxB <fxbenard@gmail.com>
-=> Gujarati - PrashantM <pm171295@gmail.com>
-=> Hindi - PrashantM <pm171295@gmail.com>
-=> Italian - Macitaly <macitaly@gmail.com>
-=> Bosnian - Kenan Derviševic <kenan3008@gmail.com>
-=> Dutch - Elkana Oosterveen <elkana@elkana.nl>
+* Catalan - cubells <vicent@vcubells.net>
+* French  - FxB <fxbenard@gmail.com>
+* Gujarati - PrashantM <pm171295@gmail.com>
+* Hindi - PrashantM <pm171295@gmail.com>
+* Italian - Macitaly <macitaly@gmail.com>
+* Bosnian - Kenan Derviševic <kenan3008@gmail.com>
+* Dutch - Elkana Oosterveen <elkana@elkana.nl>
+* Spanish - iformas <iformas@hotmail.com>
 
 
 Thanks,
