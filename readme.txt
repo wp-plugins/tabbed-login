@@ -75,9 +75,9 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 = 1.0.0 =
 
-*Initial Release
+* Initial Release
 
 = 1.0.1 =
 
-*Localization ready version
-*Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
+* Localization ready version
+* Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
