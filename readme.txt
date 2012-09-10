@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
 Requires at least: 2.1 
 Tested up to: 3.4.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +19,17 @@ It lets users login, and then redirects them back to the page they logged in fro
 If you want to change look, you can request me for customization at : vivek.marakana@gmail.com
 
 **This is my first plugin so please give me some review about this and post questions to support forum if any...**
+
+= TRANSLATION CREDITS : = 
+
+* Catalan - cubells <vicent@vcubells.net>
+* French  - FxB <fxbenard@gmail.com>
+* Gujarati - PrashantM <pm171295@gmail.com>
+* Hindi - PrashantM <pm171295@gmail.com>
+* Italian - Macitaly <macitaly@gmail.com>
+* Bosnian - Kenan Derviševic <kenan3008@gmail.com>
+* Dutch - Elkana Oosterveen <elkana@elkana.nl>
+* Spanish - iformas <iformas@hotmail.com>
 
 == Installation ==
 
@@ -64,3 +75,8 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 = 1.0.0 =
 
 Initial Release
+
+= 1.0.1 =
+
+Localization ready version
+Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
