@@ -27,7 +27,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Gujarati - PrashantM <pm171295@gmail.com>
 * Hindi - PrashantM <pm171295@gmail.com>
 * Italian - Macitaly <macitaly@gmail.com>
-* Bosnian - Kenan Derviševic <kenan3008@gmail.com>
+* Bosnian - Kenan Dervisevic <kenan3008@gmail.com>
 * Dutch - Elkana Oosterveen <elkana@elkana.nl>
 * Spanish - iformas <iformas@hotmail.com>
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
