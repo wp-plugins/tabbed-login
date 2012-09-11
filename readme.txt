@@ -1,11 +1,10 @@
 === Tabbed Login Widget ===
 Contributors: vivek.marakana
-Author URI: http://www.htmlcsstutor.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9JPDDN7RYGFNL
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
 Requires at least: 2.1 
 Tested up to: 3.4.2
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,9 +27,10 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Gujarati - PrashantM <pm171295@gmail.com>
 * Hindi - PrashantM <pm171295@gmail.com>
 * Italian - Macitaly <macitaly@gmail.com>
-* Bosnian - Kenan Dervisevic <kenan3008@gmail.com>
+* Bosnian - Kenan Derviševic <kenan3008@gmail.com>
 * Dutch - Elkana Oosterveen <elkana@elkana.nl>
 * Spanish - iformas <iformas@hotmail.com>
+* Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
 
 == Installation ==
 
@@ -81,3 +81,4 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 * Localization ready version
 * Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
+* Added language support for Slovak (11/9/2012)
