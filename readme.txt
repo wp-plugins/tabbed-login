@@ -79,7 +79,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 * Localization ready version
 * Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
 * Added language support for Slovak (11/9/2012)
-* Addes language support for Turkish (13/9/2012)
+* Added language support for Turkish (13/9/2012)
 
 = 1.0.0 =
 
