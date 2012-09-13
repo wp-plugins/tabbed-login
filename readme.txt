@@ -31,6 +31,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Dutch - Elkana Oosterveen <elkana@elkana.nl>
 * Spanish - iformas <iformas@hotmail.com>
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
+* Turkish - Fatih Beytar <beytar@gmail.com>
 
 == Installation ==
 
@@ -78,6 +79,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 * Localization ready version
 * Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
 * Added language support for Slovak (11/9/2012)
+* Addes language support for Turkish (13/9/2012)
 
 = 1.0.0 =
 
