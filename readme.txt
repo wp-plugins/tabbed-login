@@ -32,7 +32,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Spanish - iformas <iformas@hotmail.com>
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
 * Turkish - Fatih Beytar <beytar@gmail.com>
-* Korean - David<hwangc@hwangc.com>
+* Korean - David <hwangc@hwangc.com>
 
 == Installation ==
 
