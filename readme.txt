@@ -1,8 +1,8 @@
 === Tabbed Login Widget ===
 Contributors: vivek.marakana
 Author URI: http://www.htmlcsstutor.com
-Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed
-Requires at least: 2.1 
+Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed, multilingual
+Requires at least: 2.5
 Tested up to: 3.4.2
 Stable tag: trunk
 License: GPLv2 or later
@@ -14,13 +14,13 @@ Easily add an beautiful tabbed login widget to your site's sidebar.
 
 Tabbed Login Widget has a widget to allow you to have a login form in the sidebars of your wordpress powered blog.
 
-It lets users login, and then redirects them back to the page they logged in from rather than the backend, it also shows error messages.
+It lets users login, and then redirects them back to the page they logged in from rather than the back end, it also shows error messages.
 
 If you want to change look, you can request me for customization at : vivek.marakana@gmail.com
 
-**This is my first plugin so please give me some review about this and post questions to support forum if any...**
+**This is my first plug-in so please give me some review about this and post questions to support forum if any...**
 
-= TRANSLATION CREDITS : = 
+= Translation Credits : = 
 
 * Catalan - cubells <vicent@vcubells.net>
 * French  - FxB <fxbenard@gmail.com>
@@ -32,22 +32,23 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Spanish - iformas <iformas@hotmail.com>
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
 * Turkish - Fatih Beytar <beytar@gmail.com>
+* Korean - David<hwangc@hwangc.com>
 
 == Installation ==
 
 = First time installation instructions =
 
-   1. Unzip and upload the 'tabbed-login' folder to your wordpress plugin directory.
-   2. Activate the plugin.
-   3. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
+   1. Unzip and upload the 'tabbed-login' folder to your wordpress plug-in directory.
+   2. Activate the plug-in.
+   3. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
    or
    
    1. Login to your site.
-   2. Go to Plugins > Add New > Upload.
-   3. Select the plugin ZIP file and click Upload.
-   4. Activate the plugin.
-   5. For a sidebar widget: Goto the Appearence > widgets tab - Drag the widget into a sidebar and save!
+   2. Go to Plug-ins > Add New > Upload.
+   3. Select the plug-in ZIP file and click Upload.
+   4. Activate the plug-in.
+   5. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
 == Frequently Asked Questions ==
 
@@ -55,11 +56,11 @@ If you want to change look, you can request me for customization at : vivek.mara
 
 I am currently working on localization of this widget. I will soon release new version with more language support.
 
-= This widget does't show 'Register' Tab.Why? =
+= This widget doesn't show 'Register' Tab.Why? =
 
 It is because you probably haven't enable registration feature. To enable it go to the dashboard > Settings > General, and check "Anyone can register".
 
-= This plugin does not look good with my theme. What do i do? =
+= This plug-in does not look good with my theme. What do i do? =
 
 You can change style 'css/tabbed-login.css' by yourself or if you need professional help you can request me for customization at : vivek.marakana@gmail.com
 
@@ -73,6 +74,11 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 4. Metabox After Login
 
 == Changelog ==
+
+= 1.0.2 =
+
+* bug fixed (Welcome message length when avatar is disabled)
+* Added language support for Korean
 
 = 1.0.1 =
 

@@ -176,6 +176,7 @@ html body ul.tabs_login li.active_login a{
 	float: left; 
 	clear: none;
 	width:50px;
+	max-width:25%;
 }
 
 .usericon img {

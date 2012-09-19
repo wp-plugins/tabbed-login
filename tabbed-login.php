@@ -3,7 +3,7 @@
 Plugin Name: Tabbed Login Widget
 Plugin URI: http://wordpress.org/extend/plugins/tabbed-login/
 Description: Easily add an beautifull tabbed login to your site's sidebar.
-Version: 1.0.1
+Version: 1.0.2
 Author: Vivek Marakana
 Author URI: http://htmlcsstutor.com
 */
@@ -150,7 +150,7 @@ class tabbed_login_Widget extends WP_Widget {
 				<div class="login_fields">
 					<?php do_action('login_form', 'resetpass'); ?>
 					<input type="submit" name="user-submit" value="<?php _e('Reset my password', 'tabbed-login'); ?>" class="user-submit" tabindex="1002" />
-					<?php $reset = $_GET['reset']; if($reset == true) { echo '<p>A message will be sent to your email address.</p>'; } ?>
+					<?php $reset = $_GET['reset']; if($reset == true) { echo '<p>'.__('A message was sent to your email address.','tabbed-login').'</p>'; } ?>
 					<input type="hidden" name="redirect_to" value="<?php echo $current_url; ?>?reset=true" />
 					<input type="hidden" name="user-cookie" value="1" />
 				</div>
@@ -162,9 +162,15 @@ class tabbed_login_Widget extends WP_Widget {
 
 	<div class="sidebox">
 		<h3><?php _e('Welcome, ', 'tabbed-login'); ?> <?php echo $user_identity; ?></h3>
+		<?php if (version_compare($GLOBALS['wp_version'], '2.5', '>=')){
+			if (get_option('show_avatars')){
+		?>
 		<div class="usericon">
 			<?php global $userdata; get_currentuserinfo(); echo get_avatar($userdata->ID, 50); ?>
 		</div>
+		<?php  }else{?>		
+		<style type="text/css">.userinfo p{margin-left: 0px !important;text-align:center;}.userinfo{width:100%;}</style>
+		<?php }}?>	
 		<div class="userinfo">
 			<p><?php _e('You are logged in as ', 'tabbed-login'); ?> <strong><?php echo $user_identity; ?></strong></p>
 			<p>
