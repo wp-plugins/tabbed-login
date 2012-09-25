@@ -33,6 +33,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
 * Turkish - Fatih Beytar <beytar@gmail.com>
 * Korean - David <hwangc@hwangc.com>
+* Russian - Oleg <ovlasov49@gmail.com>
 
 == Installation ==
 
