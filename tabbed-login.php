@@ -3,7 +3,7 @@
 Plugin Name: Tabbed Login Widget
 Plugin URI: http://wordpress.org/extend/plugins/tabbed-login/
 Description: Easily add an beautifull tabbed login to your site's sidebar.
-Version: 1.0.2
+Version: 1.0.3
 Author: Vivek Marakana
 Author URI: http://htmlcsstutor.com
 */
@@ -61,7 +61,7 @@ class tabbed_login_Widget extends WP_Widget {
 <div id="login-register-password">
 
 	<?php global $user_ID, $user_identity,$current_url;
-		  $current_url=$_SERVER['PHP_SELF'];		
+		  $current_url='http'.(empty($_SERVER['HTTPS'])?'':'s').'://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];		
 	get_currentuserinfo(); if (!$user_ID) { ?>
 
 	<ul class="tabs_login">
@@ -174,7 +174,7 @@ class tabbed_login_Widget extends WP_Widget {
 		<div class="userinfo">
 			<p><?php _e('You are logged in as ', 'tabbed-login'); ?> <strong><?php echo $user_identity; ?></strong></p>
 			<p>
-				<a href="<?php echo wp_logout_url('index.php'); ?>"><?php _e('Log out', 'tabbed-login'); ?></a> | 
+				<a href="<?php echo wp_logout_url($current_url); ?>"><?php _e('Log out', 'tabbed-login'); ?></a> | 
 				<?php if (current_user_can('manage_options')) { 
 					echo '<a href="' . admin_url() . '">' . __('Admin', 'tabbed-login') . '</a>'; } else { 
 					echo '<a href="' . admin_url() . 'profile.php">' . __('Profile', 'tabbed-login') . '</a>'; } ?>

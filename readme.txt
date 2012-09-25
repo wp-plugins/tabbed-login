@@ -75,6 +75,11 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 == Changelog ==
 
+= 1.0.3 =
+
+* Bug fixed (Login/Logout redirection fixed)
+* Added language support for Russian
+
 = 1.0.2 =
 
 * bug fixed (Welcome message length when avatar is disabled)
