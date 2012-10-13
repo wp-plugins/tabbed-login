@@ -29,11 +29,13 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Italian - Macitaly <macitaly@gmail.com>
 * Bosnian - Kenan Dervisevic <kenan3008@gmail.com>
 * Dutch - Elkana Oosterveen <elkana@elkana.nl>
-* Spanish - iformas <iformas@hotmail.com>
+* Spanish(Chile) - iformas <iformas@hotmail.com>
 * Slovak - Martin Kucharik <neuro.kucharik@gmail.com>
 * Turkish - Fatih Beytar <beytar@gmail.com>
 * Korean - David <hwangc@hwangc.com>
-* Russian - Oleg <ovlasov49@gmail.com>
+* Russian - Ovlasov <ovlasov49@gmail.com>
+* Swahili - Maoulida Mondoha <mondoha13@gmail.com>
+* Spanish - Cesar Esposito <cesaresposito@gmail.com>
 
 == Installation ==
 
@@ -76,6 +78,11 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 == Changelog ==
 
+= 1.0.4 =
+
+* File Indexing problem fixed
+* Added language support for Swahili and Spanish(Spain)
+
 = 1.0.3 =
 
 * Bug fixed (Login/Logout redirection fixed)
@@ -89,7 +96,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 = 1.0.1 =
 
 * Localization ready version
-* Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish
+* Added language support for Catalan, French, Gujarati, Hindi, Italian, Bosnian, Dutch and Spanish(Chile)
 * Added language support for Slovak (11/9/2012)
 * Added language support for Turkish (13/9/2012)
 
