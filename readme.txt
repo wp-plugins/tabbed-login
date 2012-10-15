@@ -36,6 +36,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Russian - Ovlasov <ovlasov49@gmail.com>
 * Swahili - Maoulida Mondoha <mondoha13@gmail.com>
 * Spanish - Cesar Esposito <cesaresposito@gmail.com>
+* Chinese - Tim Ren <rjtim@me.com>
 
 == Installation ==
 
@@ -82,6 +83,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 * File Indexing problem fixed
 * Added language support for Swahili and Spanish(Spain)
+* Added language support for Chinese(14/10/2012)
 
 = 1.0.3 =
 
