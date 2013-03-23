@@ -20,6 +20,9 @@ If you want to change look, you can request me for customization at : vivek.mara
 
 **This is my first plug-in so please give me some review about this and post questions to support forum if any...**
 
+**Edit : **
+Now you can easily create login page using shortcode. For more refer to FAQs.
+
 = Translation Credits : = 
 
 * Catalan - cubells <vicent@vcubells.net>
@@ -37,6 +40,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 * Swahili - Maoulida Mondoha <mondoha13@gmail.com>
 * Spanish - Cesar Esposito <cesaresposito@gmail.com>
 * Chinese - Tim Ren <rjtim@me.com>
+* Swedish - Fredrik Johnsson <fredrik.johnsson@gmail.com>
 
 == Installation ==
 
@@ -56,9 +60,16 @@ If you want to change look, you can request me for customization at : vivek.mara
    
 == Frequently Asked Questions ==
 
-= Can i change the language to my widget? =
+= How to use shortcode? =
 
-I am currently working on localization of this widget. I will soon release new version with more language support.
+You can use the shortcode in the following manner :
+[tabbed-login-form width="200"]
+**NOTE :** DON'T add "px" after pixels i.e. Don't write width="200px" just write width="200"
+
+= Can i have this widget in my language? =
+
+Currently this plugin is available in more than 15 languages. Supported languages are listed in description of the plugin. More laguages are being added continuously. 
+Thanks to the community for language support. Also you can support translating this plugin in your language if your language is not currently supported.
 
 = This widget doesn't show 'Register' Tab.Why? =
 
@@ -78,6 +89,11 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 4. Metabox After Login
 
 == Changelog ==
+
+= 1.1.0 =
+
+* Shortcode added for integration in page
+* Added language support for Swedish
 
 = 1.0.4 =
 

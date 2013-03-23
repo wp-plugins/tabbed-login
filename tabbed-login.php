@@ -3,11 +3,12 @@
 Plugin Name: Tabbed Login Widget
 Plugin URI: http://wordpress.org/extend/plugins/tabbed-login/
 Description: Easily add an beautifull tabbed login to your site's sidebar.
-Version: 1.0.4
+Version: 1.1.0
 Author: Vivek Marakana
 Author URI: http://htmlcsstutor.com
 */
 
+include("tabbed-login-shortcode.php");
 add_action( 'init', 'tabbed_load_login_widget',1 );
 
 function tabbed_load_login_widget() {

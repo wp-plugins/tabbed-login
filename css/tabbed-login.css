@@ -1,6 +1,8 @@
 
 /* tabbed list */
 
+#login-register-password:after{content:'.';clear:both;display:block;visibility:hidden;}
+
 ul.tabs_login{
 	padding: 0 !important; 
 	position: relative;
@@ -96,7 +98,17 @@ html body ul.tabs_login li.active_login a{
 
 /* global styles */
 
-#login-register-password {}
+#login-register-password {
+	height:0px;
+}
+
+#login-register-password.shortcode {
+	line-height:18px !important;
+}
+
+#login-register-password.shortcode h3 {
+	text-align: center;
+}
 
 #login-register-password h3{
 	border-bottom: 2px solid /*rgba(136, 142, 145, 0.8)*/ rgba(0,0,0,0.8);
@@ -107,6 +119,7 @@ html body ul.tabs_login li.active_login a{
 #login-register-password p{
 	margin: 0 0 15px 0;
 	padding: 0;
+	font-size:13px;
 }
 
 /* form elements */
@@ -129,13 +142,13 @@ html body ul.tabs_login li.active_login a{
 
 .username input, 
 .password input{
-	font: 12px/1.5 "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	font: 12px/1.5 "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif !important;
 	float: left; 
 	clear: none; 
 	width: 95%; 
 	height: 15px;
 	padding: 2px 3px; 
-	color: #777;
+	color: #777 !important;
 	background:white;
 	border: 1px solid #CCC;
 	box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1) !important;
