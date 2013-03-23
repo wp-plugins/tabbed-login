@@ -20,7 +20,7 @@ If you want to change look, you can request me for customization at : vivek.mara
 
 **This is my first plug-in so please give me some review about this and post questions to support forum if any...**
 
-**Edit : **
+**Edit:**
 Now you can easily create login page using shortcode. For more refer to FAQs.
 
 = Translation Credits : = 
