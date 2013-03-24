@@ -41,6 +41,7 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Spanish - Cesar Esposito <cesaresposito@gmail.com>
 * Chinese - Tim Ren <rjtim@me.com>
 * Swedish - Fredrik Johnsson <fredrik.johnsson@gmail.com>
+* German - Florian Gabele <f.gabele@bytebenders.de>
 
 == Installation ==
 
