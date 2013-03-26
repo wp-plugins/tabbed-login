@@ -97,7 +97,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 
 * Shortcode added for integration in page
 * Added language support for Swedish
-* Added language support for German,Lithuanian and Albanian(26/03/2013)
+* Added language support for German, Lithuanian and Albanian(26/03/2013)
 
 = 1.0.4 =
 
