@@ -45,6 +45,7 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Lithuanian - Edgaras Samuson <radio@todesa.lt>
 * Albanian - Revista Minerva <revistamnvr@gmail.com>
 * Bulgarian - Vlado Vladov <vladonenchev@gmail.com>
+* Persian - Amir Maskani <amirmaskani@gmail.com>
 
 == Installation ==
 
@@ -100,6 +101,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 * Added language support for Swedish
 * Added language support for German, Lithuanian and Albanian(26/03/2013)
 * Added language support for Bulgarian(28/03/2013)
+* Added language support for Persian(03/04/2013)
 
 = 1.0.4 =
 
