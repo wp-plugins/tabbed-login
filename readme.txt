@@ -46,6 +46,8 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Albanian - Revista Minerva <revistamnvr@gmail.com>
 * Bulgarian - Vlado Vladov <vladonenchev@gmail.com>
 * Persian - Amir Maskani <amirmaskani@gmail.com>
+* Romanian - Luke Twister <greendark@gmail.com>
+* Portuguese - <atendimento@nsgames.com.br>
 
 == Installation ==
 
@@ -102,6 +104,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 * Added language support for German, Lithuanian and Albanian(26/03/2013)
 * Added language support for Bulgarian(28/03/2013)
 * Added language support for Persian(03/04/2013)
+* Added language support for Romanian, Portuguese(16/07/2013)
 
 = 1.0.4 =
 
