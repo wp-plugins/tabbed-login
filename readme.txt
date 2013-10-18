@@ -48,6 +48,7 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Persian - Amir Maskani <amirmaskani@gmail.com>
 * Romanian - Luke Twister <greendark@gmail.com>
 * Portuguese - <atendimento@nsgames.com.br>
+* Greek - ΑΚΗΣ ΜΑΝΩΛΟΠΟΥΛΟΣ <akis_manolopoulos@hotmail.com>
 
 == Installation ==
 
@@ -96,6 +97,11 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 4. Metabox After Login
 
 == Changelog ==
+
+= 1.1.1 =
+* Bug fixes related to height of the widget
+* Updated few files to fix some bugs
+* Added language support for Greek
 
 = 1.1.0 =
 

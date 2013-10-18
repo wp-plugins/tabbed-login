@@ -30,10 +30,14 @@ function tabbed_shortcode( $atts ) {
 	wp_enqueue_script('tabbed-login');
 	
 	global $user_ID, $user_identity,$current_url;
-	$current_url='http'.(empty($_SERVER['HTTPS'])?'':'s').'://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];		
-	$string="<div id='login-register-password' class='shortcode' style='width:".$width."px'>";
-	
 	get_currentuserinfo();
+	$current_url='http'.(empty($_SERVER['HTTPS'])?'':'s').'://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];	
+	if(!$user_ID){	
+		$string="<div id='login-register-password' class='shortcode' style='width:".$width."px'>";
+	}else{
+		$string="<div id='login-register-password' class='shortcode logged-in' style='width:".$width."px'>";
+	}
+	
 	if (!$user_ID) {
 		$string .= "<ul class='tabs_login'>
 					<li class='active_login'><a href='#login' >".__('Login', 'tabbed-login')."</a></li>";

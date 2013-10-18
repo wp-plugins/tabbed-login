@@ -57,14 +57,11 @@ class tabbed_login_Widget extends WP_Widget {
 		echo $before_widget;
 ?>
 
-
-
-<div id="login-register-password">
-
 	<?php global $user_ID, $user_identity,$current_url;
 		  $current_url='http'.(empty($_SERVER['HTTPS'])?'':'s').'://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];		
 	get_currentuserinfo(); if (!$user_ID) { ?>
 
+<div id="login-register-password">
 	<ul class="tabs_login">
 		<li class="active_login"><a href="#login" ><?php _e('Login', 'tabbed-login'); ?></a></li>
 		<?php  if(get_option('users_can_register')) { ?>  
@@ -161,6 +158,7 @@ class tabbed_login_Widget extends WP_Widget {
 
 	<?php } else { // is logged in ?>
 
+<div id="login-register-password" class="logged-in">
 	<div class="sidebox">
 		<h3><?php _e('Welcome, ', 'tabbed-login'); ?> <?php echo $user_identity; ?></h3>
 		<?php if (version_compare($GLOBALS['wp_version'], '2.5', '>=')){

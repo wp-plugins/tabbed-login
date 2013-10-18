@@ -102,6 +102,11 @@ html body ul.tabs_login li.active_login a{
 	height:0px;
 }
 
+#login-register-password.logged-in {
+	height:auto !important;
+	margin-bottom:-20px;
+}
+
 #login-register-password.shortcode {
 	line-height:18px !important;
 }
