@@ -23,6 +23,9 @@ If you want to change look, you can request me for customization at : vivek.mara
 **Edit:**
 Now you can easily create login page using shortcode. For more refer to FAQs.
 
+**Copyrights:**
+**You can redistribute this plugin with or without any changes. However, you can not sell or charge for the distribution of the plugin without authors written permission.**
+
 = Translation Credits : = 
 
 * Catalan - cubells <vicent@vcubells.net>
