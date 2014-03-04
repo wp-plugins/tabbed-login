@@ -52,22 +52,24 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Romanian - Luke Twister <greendark@gmail.com>
 * Portuguese - <atendimento@nsgames.com.br>
 * Greek - ΑΚΗΣ ΜΑΝΩΛΟΠΟΥΛΟΣ <akis_manolopoulos@hotmail.com>
+* Thai - kittiphum chompoopan <kittipnm@gmail.com>
+* Czech - Miroslav Rybníček <mrybnicek@centrum.cz>
 
 == Installation ==
 
 = First time installation instructions =
 
    1. Unzip and upload the 'tabbed-login' folder to your wordpress plug-in directory.
-   2. Activate the plug-in.
-   3. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
+   1. Activate the plug-in.
+   1. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
    or
    
-   1. Login to your site.
+   2. Login to your site.
    2. Go to Plug-ins > Add New > Upload.
-   3. Select the plug-in ZIP file and click Upload.
-   4. Activate the plug-in.
-   5. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
+   2. Select the plug-in ZIP file and click Upload.
+   2. Activate the plug-in.
+   2. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
 == Frequently Asked Questions ==
 
@@ -105,6 +107,7 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 * Bug fixes related to height of the widget
 * Updated few files to fix some bugs
 * Added language support for Greek
+* Added language support for Thai and Czach (04/03/2014)
 
 = 1.1.0 =
 
