@@ -59,17 +59,17 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 
 = First time installation instructions =
 
-   1. Unzip and upload the 'tabbed-login' folder to your wordpress plug-in directory.
-   1. Activate the plug-in.
-   1. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
+* Unzip and upload the 'tabbed-login' folder to your wordpress plug-in directory.
+* Activate the plug-in.
+* For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
-   or
+   **or**
    
-   2. Login to your site.
-   2. Go to Plug-ins > Add New > Upload.
-   2. Select the plug-in ZIP file and click Upload.
-   2. Activate the plug-in.
-   2. For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
+* Login to your site.
+* Go to Plug-ins > Add New > Upload.
+* Select the plug-in ZIP file and click Upload.
+* Activate the plug-in.
+* For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
    
 == Frequently Asked Questions ==
 
