@@ -3,7 +3,7 @@ Contributors: vivek.marakana
 Author URI: http://www.htmlcsstutor.com
 Tags: login, sidebar, widget, sidebar login, meta, form, register, tabbed, multilingual
 Requires at least: 2.5
-Tested up to: 3.4.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,7 +26,7 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 **Copyrights:**
 **You can redistribute this plugin with or without any changes. However, you can not sell or charge for the distribution of the plugin without authors written permission.**
 
-= Translation Credits : = 
+= Translation Credits : =
 
 * Catalan - cubells <vicent@vcubells.net>
 * French  - FxB <fxbenard@gmail.com>
@@ -62,15 +62,15 @@ Now you can easily create login page using shortcode. For more refer to FAQs.
 * Unzip and upload the 'tabbed-login' folder to your wordpress plug-in directory.
 * Activate the plug-in.
 * For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
-   
+
    **or**
-   
+
 * Login to your site.
 * Go to Plug-ins > Add New > Upload.
 * Select the plug-in ZIP file and click Upload.
 * Activate the plug-in.
 * For a sidebar widget: Goto the Appearance > widgets tab - Drag the widget into a sidebar and save!
-   
+
 == Frequently Asked Questions ==
 
 = How to use shortcode? =
@@ -81,7 +81,7 @@ You can use the shortcode in the following manner :
 
 = Can i have this widget in my language? =
 
-Currently this plugin is available in more than 15 languages. Supported languages are listed in description of the plugin. More laguages are being added continuously. 
+Currently this plugin is available in more than 15 languages. Supported languages are listed in description of the plugin. More laguages are being added continuously.
 Thanks to the community for language support. Also you can support translating this plugin in your language if your language is not currently supported.
 
 = This widget doesn't show 'Register' Tab.Why? =
@@ -102,6 +102,9 @@ You can change style 'css/tabbed-login.css' by yourself or if you need professio
 4. Metabox After Login
 
 == Changelog ==
+
+= 1.1.2 =
+* Made Compatible with WordPress 4.3
 
 = 1.1.1 =
 * Bug fixes related to height of the widget
